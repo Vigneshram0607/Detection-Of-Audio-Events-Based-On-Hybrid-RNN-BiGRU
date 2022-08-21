@@ -12,15 +12,15 @@ The classification of the acoustic events happening around us, is important for 
 
 4. Hands-on Implementing Audio Classification project
 
-    -> EDA On Audio Data
+    - EDA On Audio Data
     
-    -> Data Preprocessing
+    - Data Preprocessing
     
-    -> Building RNN-BiGRU for Audio Classification
+    - Building RNN-BiGRU for Audio Classification
     
-5.Testing some unknown Audio
+5. Testing some unknown Audio
 
-6.End Notes
+6. End Notes
 
 
 
