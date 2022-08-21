@@ -18,7 +18,7 @@ The classification of the acoustic events happening around us, is important for 
     
     - Building RNN-BiGRU for Audio Classification
     
-5. Testing some unknown Audio
+    - Testing some unknown Audio
 
 6. End Notes
 
